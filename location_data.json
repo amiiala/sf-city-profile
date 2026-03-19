@@ -1,0 +1,13 @@
+{
+  "coordinates": {
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
+  },
+  "elevation_meters": 15.55781936645508,
+  "featured_attraction": {
+    "name": "Pier 39",
+    "address": "The Embarcadero, San Francisco, CA 94133, USA",
+    "rating": 4.6,
+    "phone": "(415) 705-5500"
+  }
+}
